@@ -5,4 +5,5 @@
 2. Uncertainty and Fuzzy Logic
 
 ## 因果推理
-1. [知乎](https://www.zhihu.com/question/283897078/answer/756671333)
+1. 微软因果推理库，[知乎](https://www.zhihu.com/question/283897078/answer/756671333)
+2. CVPR2020, Visual Commonsense R-CNN, [知乎](https://zhuanlan.zhihu.com/p/111306353)
