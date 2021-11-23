@@ -11,3 +11,5 @@
 ### 4. 原理： 每层金字塔都会训练一个GMM模型，并确定该层的'novelty_threshold'（区分有无瑕疵的阈值）。
 
 ### 5. 案例：对缺陷图像的纹理特征训练进行详细分析，2D+颜色&纹理分布+定性分析有无+背景纹理稳定复杂+目标姿态不变
+
+### 6. 拓展：GMM用于点云配准——[Robust Point Set Registration Using Gaussian Mixture Models](https://paperswithcode.com/paper/robust-point-set-registration-using-gaussian), [DeepGMR: Learning Latent Gaussian Mixture Models for Registration](https://github.com/wentaoyuan/deepgmr)
