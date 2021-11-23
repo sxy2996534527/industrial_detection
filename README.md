@@ -7,3 +7,6 @@
 ## 因果推理
 1. 微软因果推理库，[知乎](https://www.zhihu.com/question/283897078/answer/756671333)
 2. CVPR2020, Visual Commonsense R-CNN, [知乎](https://zhuanlan.zhihu.com/p/111306353)
+
+## 论文
+1. A Domain Analysis to Specify Design Defects and Generate Detection Algorithms
